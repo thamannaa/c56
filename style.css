@@ -1,0 +1,19 @@
+body{
+    text-align:center;
+    background-color:aquamarine;
+}
+div{
+    margin-top:15px;
+}
+.imagesection{
+    display:flex;
+    justify-content: center;
+}
+.sectionstyle{
+    margin-right:25px;
+    margin-left:25px;
+    background-color:white;
+}
+p{
+    font-size:20px;
+}
